@@ -5,4 +5,5 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <h1>hi</h1>
   <HelloWorld />
+  <h2>zhangsan</h2>
 </template>
